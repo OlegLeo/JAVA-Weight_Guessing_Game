@@ -4,7 +4,7 @@
 
 !!!!!!!!!!!WARNING!!!!!!!!!
 
-HEAVE___PORTUGUESE___CONTENT
+HEAVY___PORTUGUESE___CONTENT
 
 
 The goal of this project was to create, using OOP (Object-Oriented Programming), a game in which people are randomly chosen to try guess the weight of the bag. 
