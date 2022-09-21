@@ -6,6 +6,7 @@
 
 HEAVY___PORTUGUESE___LANGUAGE___CONTENT
 
+This project was one of the exercises during CESAE DIGIAL's Web Development course.
 
 The goal of this project was to create, using OOP (Object-Oriented Programming), a game in which people are randomly chosen to try guess the weight of the bag. 
 
